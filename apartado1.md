@@ -1,5 +1,4 @@
-#Titulo principal
-
-*Subtítulo 1
-*Subtítulo 2
-*Súbtitulo 3
+# titulo principal 
+## segundo titulo 
+* primer elemnto
+* segundo elemento
